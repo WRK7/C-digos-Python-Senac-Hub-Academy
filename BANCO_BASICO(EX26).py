@@ -73,4 +73,4 @@ while (decisao != "5"):
                 listasexo=sexo
                 print ("EDIÇÃO CONCLUIDA COM SUCESSO\nTe redirecionando para a tela inicial...")
         elif (acesso == "5"):
-            print ("FLW...")
+            print ("Saindo...")
